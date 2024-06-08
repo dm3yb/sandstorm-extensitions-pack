@@ -1,6 +1,6 @@
 {
-  "name": "sandstorm-extensitions-pack",
-  "displayName": "SandStorm Extensitions Pack",
+  "name": "sandstorm-extensions-pack",
+  "displayName": "SandStorm Extensions Pack",
   "description": "",
   "version": "0.0.1",
   "engines": {

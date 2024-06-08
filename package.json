@@ -4,7 +4,7 @@
   "publisher": "SandStormDevBand",
   "icon": "images/icon.png",
   "description": "",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "engines": {
     "vscode": "^1.90.0"
   },
@@ -130,5 +130,11 @@
     "zhuangtongfa.material-theme",
     "zignd.html-css-class-completion",
     "zobo.php-intellisense"
-  ]
+  ],
+  "devDependencies": {
+    "standard-version": "^9.5.0"
+  },
+  "scripts": {
+    "release": "standard-version"
+  }
 }

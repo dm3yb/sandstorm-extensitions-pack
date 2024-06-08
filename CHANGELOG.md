@@ -1,9 +1,9 @@
-# Change Log
+# Changelog
 
-All notable changes to the "sandstorm-extensitions-pack" extension pack will be documented in this file.
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+### [0.0.5](https://github.com/dmitryb25/sandstorm-extensitions-pack/compare/v0.0.4...v0.0.5) (2024-06-08)
 
-## [Unreleased]
-
-- Initial release
+## [1.0.0] - 2024-06-08
+### Added
+- Initial release of the project.

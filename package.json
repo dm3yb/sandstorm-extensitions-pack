@@ -1,6 +1,8 @@
 {
-  "name": "sandstorm-extensions-pack",
-  "displayName": "SandStorm Extensions Pack",
+  "name": "sandstorm-webdev-extensions-pack",
+  "displayName": "SandStorm WebDev Extensions Pack",
+  "publisher": "SandStormDevBand",
+  "icon": "images/icon.png",
   "description": "",
   "version": "0.0.1",
   "engines": {

@@ -4,7 +4,7 @@
   "publisher": "SandStormDevBand",
   "icon": "images/icon.png",
   "description": "",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "engines": {
     "vscode": "^1.90.0"
   },
